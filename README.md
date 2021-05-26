@@ -1,6 +1,10 @@
-# boat_animation
+# flare_animation
 
 A new Flutter project.
+
+Simple animation project which uses rive | Flare animation file. 
+
+Watch video tutorial  https://www.youtube.com/watch?v=vsyjMrZa5OU to create this simple project.  
 
 ## Getting Started
 
